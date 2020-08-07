@@ -15,14 +15,14 @@
 [projeto](orange/lab1-ex2.ows)
 
 ## Gráfico(s) de Análise
+### Relação entre quantidade de avaliação e nota de avaliação dos apps.
 ![lab1-ex2-chart1](images/lab1-ex2-chart1.png)
-Relação entre quantidade de avaliação e nota de avaliação dos apps.
+### Distribuição de apps por categoria.
 ![lab1-ex2-chart2](images/lab1-ex2-chart2.png)
-Distribuição de apps por categoria.
+### Distribuição de apps pagos por quantidade de *Donwloads*.
 ![lab1-ex2-chart3](images/lab1-ex2-chart3.png)
-Distribuição de apps pagos por quantidade de *Donwloads*.
+### Distribuição de apps gratuitos por quantidade de *Donwloads*.
 ![lab1-ex2-chart4](images/lab1-ex2-chart4.png)
-Distribuição de apps gratuitos por quantidade de *Donwloads*.
 
 # Projeto de Composição de Componentes para Recomendação
 
