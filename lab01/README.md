@@ -32,8 +32,8 @@
 
 ## Diagrama de Componentes
 
-> Imagem (`PNG`) do diagrama de componentes do pedido de um produto (veja exemplos abaixo).
+![lab1-ex4-components](images/lab1-ex4-components.png)
 
 ## Diagrama de Interfaces
 
-> Imagem (`PNG`) do detalhamento de interfaces referentes aos componentes.
+![lab1-ex4-interfaces](images/lab1-ex4-interfaces.png)
