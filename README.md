@@ -1,2 +1,2 @@
-# inf331_labs
-Laboratório da matéria inf331
+# INF331 2020
+* Lucas Oliveira dos Santos (Equipe 5)
