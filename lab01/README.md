@@ -26,7 +26,7 @@
 
 # Projeto de Composição de Componentes para Recomendação
 
-> Imagem (`PNG`) do diagrama de componentes (veja exemplos abaixo).
+![lab1-ex3](images/lab1-ex3.png)
 
 # Projeto de Composição de Componentes para Pedido
 
