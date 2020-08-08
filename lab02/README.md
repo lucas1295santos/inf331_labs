@@ -58,4 +58,44 @@
 ~~~
 
 ## Tarefa Web Components 2
-> Escreva aqui o código da sua composição de componentes Web, seguindo a mesma abordagem da tarefa anterior.
+~~~html
+<!-- Btn next science -->
+<dcc-trigger label="Next science" action="next/science">
+</dcc-trigger>
+<!-- Btn next design -->
+<dcc-trigger label="Next design" action="next/design">
+</dcc-trigger>
+<!-- Rss feed science -->
+<dcc-rss publish="news/science" source="https://www.wired.com/category/science/feed">
+  <subscribe-dcc topic="next/science" role="step"></subscribe-dcc>
+</dcc-rss>
+<!-- Rss feed design -->
+<dcc-rss publish="news/design" source="https://www.wired.com/category/design/feed">
+    <subscribe-dcc topic="next/design" role="step"></subscribe-dcc>
+</dcc-rss>
+<!-- Aggregator science -->
+<dcc-aggregator publish="aggregate/science" quantity="3">
+  <subscribe-dcc topic="news/science"></subscribe-dcc>
+</dcc-aggregator>
+<!-- Character doctor -->
+<dcc-lively-talk id="doctor"
+                 duration="0s"
+                 character="doctor"
+                 speech="News ">
+  <subscribe-dcc topic="aggregate/science"></subscribe-dcc>
+</dcc-lively-talk>
+<!-- Character nurse -->
+<dcc-lively-talk id="doctor"
+                 duration="0s"
+                 character="nurse"
+                 speech="News ">
+  <subscribe-dcc topic="news/science"></subscribe-dcc>
+</dcc-lively-talk>
+<!-- Character patient -->
+<dcc-lively-talk id="doctor"
+                 duration="0s"
+                 character="patient"
+                 speech="News ">
+  <subscribe-dcc topic="news/design"></subscribe-dcc>
+</dcc-lively-talk>
+~~~
