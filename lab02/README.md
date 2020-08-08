@@ -1,11 +1,10 @@
-# Data Flow e Componentes (parte 2)
+# Lab 02
 
 ## Tarefa sobre catálogo de componentes
 
 [notebook resolvido](notebooks/components-01-catalog-resolvido.ipynb)
 
 ## Tarefa Web Components 1
-> Escreva aqui o código da sua composição de componentes Web, como mostra o exemplo a seguir:
 ~~~html
 <!-- Btn mundo -->
 <dcc-trigger id="btn_mundo"
