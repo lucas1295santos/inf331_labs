@@ -1,27 +1,13 @@
 # Modelo para Apresentação do Lab04 - Serviços
 
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-│
-└── images     <- arquivos de imagens usadas no documento
-~~~
-
 ## Tarefa 1
-> Coloque a imagem do PNG do seu diagrama como ilustrado abaixo:
-> 
-> ![Diagrama de Orquestração](images/componentizacao-negocio.png)
+![lab04-ex1](images/lab04-ex1.png)
 
 ## Tarefa 2
-> Coloque a imagem do PNG do seu diagrama como ilustrado abaixo:
-> 
-> ![Diagrama de Orquestração](images/componentizacao-tecnico-view.png)
+![lab04-ex2](images/lab04-ex2.png)
 
 ## Tarefa 3
-> Coloque a imagem do PNG do seu diagrama como ilustrado abaixo:
-> 
-> ![Diagrama de Orquestração](images/componentizacao-tecnico-model.png)
+![lab04-ex3](images/lab04-ex3.png)
 
 ## Tarefa 4
 
